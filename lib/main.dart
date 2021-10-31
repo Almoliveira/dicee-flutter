@@ -64,7 +64,7 @@ class _DicePageState extends State<DicePage> {
                   //Use this one for incremental Changes!
                   // rightDiceNumber =
                   //     (rightDiceNumber == 6) ? 1 : rightDiceNumber + 1;
-                  // rightDiceNumber = Random().nextInt(6) + 1;
+                  rightDiceNumber = Random().nextInt(6) + 1;
 
                   //Challenge 2.
                   // rightDiceNumber = Random().nextInt(6) + 1;
